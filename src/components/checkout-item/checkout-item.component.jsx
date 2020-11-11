@@ -15,3 +15,5 @@ const CheckoutItem = ({ cartItem : { name, imageUrl, price, quantity }}) => (
         </div>
     </div>
 )
+
+export default CheckoutItem
